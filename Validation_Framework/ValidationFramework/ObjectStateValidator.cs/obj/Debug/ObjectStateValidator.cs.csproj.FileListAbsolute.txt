@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\ValidationFramework\ObjectStateValidator.cs\bin\Debug\ObjectStateValidator.cs.dll
+c:\users\user\documents\visual studio 2013\Projects\ValidationFramework\ObjectStateValidator.cs\bin\Debug\ObjectStateValidator.cs.pdb
+c:\users\user\documents\visual studio 2013\Projects\ValidationFramework\ObjectStateValidator.cs\obj\Debug\ObjectStateValidator.cs.dll
+c:\users\user\documents\visual studio 2013\Projects\ValidationFramework\ObjectStateValidator.cs\obj\Debug\ObjectStateValidator.cs.pdb
+c:\users\user\documents\visual studio 2013\Projects\ValidationFramework\ObjectStateValidator.cs\obj\Debug\ObjectStateValidator.cs.csprojResolveAssemblyReference.cache

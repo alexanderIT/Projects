@@ -1,0 +1,16 @@
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\bin\Debug\BlogSystem.Data.Models.dll.config
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\bin\Debug\BlogSystem.Data.Models.dll
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\bin\Debug\BlogSystem.Data.Models.pdb
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\bin\Debug\BlogSystem.Data.Contracts.dll
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\bin\Debug\BlogSystem.Data.Contracts.pdb
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\obj\Debug\BlogSystem.Data.Models.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\obj\Debug\BlogSystem.Data.Models.dll
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Data\BlogSystem.Data.Models\obj\Debug\BlogSystem.Data.Models.pdb

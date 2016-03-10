@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2013\Projects\ValidationFramework\Validator.Test\bin\Debug\Validator.Test.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ValidationFramework\Validator.Test\obj\Debug\Validator.Test.csprojResolveAssemblyReference.cache

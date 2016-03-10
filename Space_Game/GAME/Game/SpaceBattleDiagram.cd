@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game.Common.Player.Shot" Collapsed="true">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Player\Shot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.Player.PlayerAircraft" Collapsed="true">
+    <Position X="13.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAAAIAABAAAAAAAAAAAAAAEAAQIQIQAAAAAAAA=</HashCode>
+      <FileName>Common\Player\PlayerAircraft.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.CollisionData" Collapsed="true">
+    <Position X="18.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\CollisionData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.CollisionDispatcher" Collapsed="true">
+    <Position X="20" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAIAAACAAAAAAAAAACAAAABAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Common\CollisionDispatcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.ConsoleRenderer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAABAAAAIAAAAAABAAACAAAAEAAAA=</HashCode>
+      <FileName>Common\ConsoleRenderer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game.Common.Engine" Collapsed="true">
+    <Position X="23.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAFAgAAEABAAAAAAAAAAABgiEAAAAAgAACACAwAI=</HashCode>
+      <FileName>Common\Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.GameObject" Collapsed="true">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAAAIAAABAQAAAAABAQAQAAAAQAAIAAAAGAEAA=</HashCode>
+      <FileName>Common\GameObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game.Common.GameOverScreen" Collapsed="true">
+    <Position X="18.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\GameOverScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.KeyboardInput" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAEAAEAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\KeyboardInput.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Game.Common.MatrixCoords" Collapsed="true">
+    <Position X="21.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAwAAAAAAAAAEAAoAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\MatrixCoords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.MovingObject" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAACAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\MovingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.RandomGenerator" Collapsed="true">
+    <Position X="23.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\RandomGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.StartScreen" Collapsed="true">
+    <Position X="20" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\StartScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.WindowsSettings" Collapsed="true">
+    <Position X="21.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\WindowsSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.Enemy.BigBomb" Collapsed="true">
+    <Position X="9" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Enemy\BigBomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.Enemy.Bomb" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Enemy\Bomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.Enemy.EnemyShipDestructivePart" Collapsed="true">
+    <Position X="15.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Enemy\EnemyShipDestructivePart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.Enemy.EnemyShip" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAAAIAAAAAAAAAAAAAAAAAAAAQAAIAAAAAAAAA=</HashCode>
+      <FileName>Common\Enemy\EnemyShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.Common.Enemy.SmallBomb" Collapsed="true">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\Enemy\SmallBomb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game.SpaceBattleMain" Collapsed="true">
+    <Position X="18.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAECAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Executable\SpaceBattleMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Game.Common.ICollidable" Collapsed="true">
+    <Position X="18.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Common\ICollidable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game.Common.IObjectProducer" Collapsed="true">
+    <Position X="20" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Common\IObjectProducer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game.Common.IRenderable" Collapsed="true">
+    <Position X="21.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Common\IRenderable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game.Common.IRenderer" Collapsed="true">
+    <Position X="23.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Common\IRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game.Common.IUserInput" Collapsed="true">
+    <Position X="18.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAEAAEAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\IUserInput.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,7 @@
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Services\BlogSystem.Services.YouTube\bin\Debug\BlogSystem.Services.YouTube.dll
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Services\BlogSystem.Services.YouTube\bin\Debug\BlogSystem.Services.YouTube.pdb
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Services\BlogSystem.Services.YouTube\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Services\BlogSystem.Services.YouTube\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Services\BlogSystem.Services.YouTube\obj\Debug\BlogSystem.Services.YouTube.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Services\BlogSystem.Services.YouTube\obj\Debug\BlogSystem.Services.YouTube.dll
+C:\Users\user\Downloads\BlogSystem-master\BlogSystem-master\Source\Services\BlogSystem.Services.YouTube\obj\Debug\BlogSystem.Services.YouTube.pdb
